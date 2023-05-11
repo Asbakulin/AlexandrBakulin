@@ -1,18 +1,7 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Вопросы на собеседовании тестировщиков &lpar;Junior QA&rpar; от менеджеров](https://www.youtube.com/watch?v=Ew9hUAZkBr8)
-- [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
-- [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
-- [Как пройти испытательный срок?](https://www.youtube.com/watch?v=82jogTmRyTg)
-- [Импорт, экспорт данных для тестировщика. Операторы HAVING и UNION](https://www.youtube.com/watch?v=-rI8Swa35Pw)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -32,14 +21,13 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists]()
+- [Test-Suites and Test-Cases](https://github.com/Asbakulin/AlexandrBakulin/tree/main/testcases)
+- [Bug-Reports](https://github.com/Asbakulin/AlexandrBakulin/tree/main/bug)
+- [SQL Queries]()
+- [Postman Collections](https://www.postman.com/alex399/workspace/testworkspace/collection/26431310-b6e1a67d-2f98-4c30-bb32-0b9328fb166e)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
